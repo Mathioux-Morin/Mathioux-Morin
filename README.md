@@ -15,17 +15,6 @@ Ce qui a débuté par de la curiosité pour la logique des blocs s'est transform
 
 *Du scripting à l'architecture logicielle, chaque projet est pour moi un nouveau terrain de jeu.*
 
-<br>
-
-<a href="https://github.com/Mathioux-Morin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Mathieu's GitHub Stats" />
-</a>
-<a href="https://github.com/Mathioux-Morin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical&hide_border=false" alt="Mathieu's Top Languages" />
-</a>
-
-</div>
-
 ---
 
 ## 🛠️ Compétences Techniques
@@ -97,8 +86,8 @@ C'est ici que tout a commencé. Avant de maîtriser la syntaxe, j'ai développé
 
 | Comptes | Description | Projet Phare |
 | :--- | :--- | :--- |
-| **`supermorin`** | Mon compte principal historique. | **🎮 Napus 2.0.5**<br>Mon projet le plus abouti de l'époque, un jeu complet qui m'a initié aux concepts de boucles et de conditions complexes. |
-| **`studio-sood`** | Compte secondaire dédié aux expérimentations. | Divers prototypes graphiques et sonores. |
+| **`supermorin`** | Mon compte principal historique. | **🎮 Napus 2.0.5**<br>Mon projet le plus abouti de l'époque. |
+| **`studio-sood`** | Compte commun avec mes amis. | Divers prototypes graphiques et coup de coeur de gamejam : LibertyQuest. |
 
 > *"On commence tous quelque part, et pour moi, c'était en assemblant des blocs colorés avec la même passion qu'aujourd'hui."*
 
