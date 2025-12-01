@@ -1,16 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mathieu%20MORIN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=D%C3%A9veloppeur%20Passionn%C3%A9%20-%20BTS%20SIO&descSize=20&descAlignY=60"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Portfolio+de+MORIN+Mathieu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Coding+since+middle+school;Always+learning,+always+creating;From+Scratch+blocks+to+Full+Stack" alt="Typing SVG" />
 </a>
 
-<img width="100%" height="auto" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
+<br>
 
-<div align="center">
+### 🚀 Plus qu'un étudiant, un véritable passionné.
 
-### Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)
-**Passionné par le développement web, le backend et l'automatisation.**
-Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
+**Mon aventure avec le code a commencé bien avant mes études supérieures, dès les bancs du collège.**
+Ce qui a débuté par de la curiosité pour la logique des blocs s'est transformé en une véritable vocation. Je ne me définis pas par une seule technologie : j'aime explorer l'informatique dans son ensemble, comprendre comment les choses fonctionnent "sous le capot", et ressentir cette satisfaction unique quand une idée prend vie à l'écran.
+
+*Du scripting à l'architecture logicielle, chaque projet est pour moi un nouveau terrain de jeu.*
+
+<br>
+
+<a href="https://github.com/Mathioux-Morin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Mathieu's GitHub Stats" />
+</a>
+<a href="https://github.com/Mathioux-Morin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical&hide_border=false" alt="Mathieu's Top Languages" />
+</a>
+
+</div>
 
 ---
 
@@ -69,7 +83,7 @@ Ce référentiel centralise mes projets de formation et mes réalisations person
 
 ---
 
-## 🚀 Projets Personnels
+## 🚀 Projets Personnels & Open Source
 
 * **🤖 Bot Discord Multifonctions**
     * **Repo :** [`Discord-Bot`](https://github.com/Mathioux-Morin/Discord-Bot)
@@ -78,8 +92,20 @@ Ce référentiel centralise mes projets de formation et mes réalisations person
 
 ---
 
+## 🐣 Mes Origines : L'ère Scratch
+C'est ici que tout a commencé. Avant de maîtriser la syntaxe, j'ai développé ma logique algorithmique à travers des dizaines de projets créatifs sur Scratch durant mes années collège.
+
+| Comptes | Description | Projet Phare |
+| :--- | :--- | :--- |
+| **`supermorin`** | Mon compte principal historique. | **🎮 Napus 2.0.5**<br>Mon projet le plus abouti de l'époque, un jeu complet qui m'a initié aux concepts de boucles et de conditions complexes. |
+| **`studio-sood`** | Compte secondaire dédié aux expérimentations. | Divers prototypes graphiques et sonores. |
+
+> *"On commence tous quelque part, et pour moi, c'était en assemblant des blocs colorés avec la même passion qu'aujourd'hui."*
+
+---
+
 <div align="center">
-  <p><i>Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !</i></p>
+  <p><i>Merci de votre visite !</i></p>
   <a href="https://github.com/Mathioux-Morin/Mathioux-Morin">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </a>
