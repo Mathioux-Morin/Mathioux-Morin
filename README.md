@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mathieu%20MORIN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=D%C3%A9veloppeur%20Passionn%C3%A9%20-%20BTS%20SIO&descSize=20&descAlignY=60"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Développe+depuis+le+collège;Always+learning,+always+creating;From+Scratch+blocks+to+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Codding+since+middle+-+school.;Always+learning,+always+creating;From+Scratch+blocks+to+Full+Stack" alt="Typing SVG" />
 </a>
 
 <br>
