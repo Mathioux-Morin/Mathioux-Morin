@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mathieu%20MORIN&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=D%C3%A9veloppeur%20Web%20%26%20Mobile%20-%20BTS%20SIO&descSize=20&descAlignY=60"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Portfolio+de+D%C3%A9veloppeur+-+MORIN+Mathieu" alt="Typing SVG" />
 </a>
