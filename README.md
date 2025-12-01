@@ -1,13 +1,30 @@
-# 👨‍💻 Portfolio de Développeur - [MORIN Mathieu]
+# 👨‍💻 Portfolio de Développeur - MORIN Mathieu
 
-<img width="512" height="169" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
+<img width="100%" height="auto" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
 
-**Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)**
-Passionné par le développement web, le backend et l'automatisation. Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
+<div align="center">
+
+### Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)
+**Passionné par le développement web, le backend et l'automatisation.**
+Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
+
+<br>
+
+<a href="https://github.com/Mathioux-Morin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Mathieu's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/Mathioux-Morin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical&hide_border=false" alt="Mathieu's Top Languages" />
+</a>
+
+</div>
 
 ---
 
 ## 🛠️ Compétences Techniques
+
+<div align="center">
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -15,6 +32,8 @@ Passionné par le développement web, le backend et l'automatisation. Ce référ
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
@@ -67,4 +86,9 @@ Passionné par le développement web, le backend et l'automatisation. Ce référ
 
 ---
 
-*Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !*
+<div align="center">
+  <p><i>Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !</i></p>
+  <a href="https://github.com/Mathioux-Morin/Mathioux-Morin">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </a>
+</div>
