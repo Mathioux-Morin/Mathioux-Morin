@@ -1,6 +1,6 @@
 # 👨‍💻 Portfolio de Développeur - [MORIN Mathieu]
 
-![Bannière](https://via.placeholder.com/1000x200?text=Bienvenue+sur+mon+Portfolio)
+![Bannière](<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />)
 **Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)**
 Passionné par le développement web, le backend et l'automatisation. Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
 
