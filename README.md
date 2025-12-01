@@ -1,70 +1,74 @@
-# 📂 Mon Portfolio de Projets
+# 👨‍💻 Portfolio de Développeur - [MORIN Mathieu]
 
-Bienvenue sur mon profil ! Ce référentiel centralise les projets que j'ai réalisés, que ce soit dans le cadre de ma formation ou sur mon temps libre, afin de démontrer mes compétences en développement.
+![Bannière](https://via.placeholder.com/1000x200?text=Bienvenue+sur+mon+Portfolio)
+**Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)**
+Passionné par le développement web, le backend et l'automatisation. Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
+
+---
+
+## 🛠️ Compétences Techniques
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🎓 Projets Réalisés en Formation (BTS SIO)
 
-Cette section regroupe les travaux pratiques et projets développés durant mon cursus.
+### 🟩 Backend & Node.js
+*Architecture serveur, API REST et gestion de données.*
 
-### 🟩 Node.js
-
-* **Projet Pokédex (API REST)**
+* **🔐 Authentification Sécurisée**
+    * **Dossier :** [`BTS-NODE-TP_Authentification`](https://github.com/Mathioux-Morin/BTS-NODE-TP_Authentification)
+    * **Description :** Implémentation d'un système robuste d'inscription et de connexion (gestion de sessions/tokens).
+* **👤 Gestion Utilisateurs (CRUD)**
+    * **Dossier :** [`BTS-NODE-TP_GestionUtilisateur`](https://github.com/Mathioux-Morin/BTS-NODE-TP_GestionUtilisateur)
+    * **Description :** API complète permettant la création, lecture, mise à jour et suppression de profils utilisateurs.
+* **api Pokédex (API REST)**
     * **Dossier :** [`BTS-NODE-TP_Pokedex`](https://github.com/Mathioux-Morin/BTS-NODE-TP_Pokedex)
-    * **Description :** Un serveur API REST pour un Pokédex, construit avec Node.js et Express. Il expose des endpoints pour consulter des données sur les Pokémon.
-
-* **TP Initiation à Node.js**
+    * **Description :** Serveur API exposant des endpoints pour consulter les données des Pokémon.
+* **📄 Initiation Node.js**
     * **Dossier :** [`BTS-NODE-TP_Initiation`](https://github.com/Mathioux-Morin/BTS-NODE-TP_Initiation)
-    * **Description :** Rapports et exercices d'introduction aux concepts fondamentaux de Node.js.
+    * **Description :** Exercices fondamentaux sur le fonctionnement de Node.js.
 
 ### ☁️ Consommation d'API
+*Interaction avec des services tiers.*
 
-* **TP Générateur d'Utilisateurs Aléatoires**
-    * **Dossier :** [`BTS-API-TP_RandomUser`](https://github.com/Mathioux-Morin/BTS-API-TP_RandomUser)
-    * **Description :** Une page web qui génère des profils utilisateurs aléatoires en interrogeant l'API `RandomUser`.
+* **🎲 Générateur d'Utilisateurs** - [`BTS-API-TP_RandomUser`](https://github.com/Mathioux-Morin/BTS-API-TP_RandomUser) : Génération de profils via l'API `RandomUser`.
+* **🤡 Générateur de Blagues** - [`BTS-API-TP_V2Jokes`](https://github.com/Mathioux-Morin/BTS-API-TP_V2Jokes) : Interface de filtrage et d'affichage utilisant `JokeAPI`.
 
-* **TP Générateur de Blagues**
-    * **Dossier :** [`BTS-API-TP_V2Jokes`](https://github.com/Mathioux-Morin/BTS-API-TP_V2Jokes)
-    * **Description :** Un générateur qui utilise `JokeAPI` pour récupérer et afficher des blagues avec des options de filtrage.
+### 📱 Mobile & Front-End
 
-### 🌐 Web Front-End
-
-* **TP Carte Interactive (OpenStreetMap)**
-    * **Dossier :** [`BTS-HTML-TP_Map`](https://github.com/Mathioux-Morin/BTS-HTML-TP_Map)
-    * **Description :** Un projet visant à intégrer une carte interactive à un site web. Il utilise Leaflet.js pour afficher des points d'intérêt sur une carte basée sur **OpenStreetMap** et permettre à l'utilisateur d'interagir avec.
-    * **Technologies :** `HTML`, `JavaScript`, `Leaflet.js`.
-
-### 📱 Flutter
-
-* **TP Mini-Jeu de Rôle (RPG)**
+* **⚔️ Mini-RPG (Flutter)**
     * **Dossier :** [`BTS-FLUTTER-TP_RPG`](https://github.com/Mathioux-Morin/BTS-FLUTTER-TP_RPG)
-    * **Description :** Un mini-jeu de rôle (RPG) textuel développé en Dart, mettant en scène un combat au tour par tour.
-    * **Technologies :** `Dart`, `Flutter`.
+    * **Description :** Jeu de rôle textuel au tour par tour développé en Dart.
+* **🗺️ Carte Interactive (Web)**
+    * **Dossier :** [`BTS-HTML-TP_Map`](https://github.com/Mathioux-Morin/BTS-HTML-TP_Map)
+    * **Description :** Intégration de Leaflet.js et OpenStreetMap pour l'affichage dynamique de points d'intérêt.
 
-### 💻 C#
+### 💻 Sécurité & DevOps
 
-* **TP Attaque BruteForce**
-    * **Dossier :** [`BTS-CS-TP_BruteForce`](https://github.com/Mathioux-Morin/BTS-CS-TP_BruteForce)
-    * **Description :** Une application C# simulant une attaque par force brute à but éducatif pour illustrer des concepts de cybersécurité.
-    * **Technologies :** `C#`.
-
-### 🐳 Docker
-
-* **TP Introduction à Docker**
-    * **Dossier :** [`BTS-DOCKER-TP_Dockers`](https://github.com/Mathioux-Morin/BTS-DOCKER-TP_Dockers)
-    * **Description :** Projet d'introduction à la conteneurisation avec Docker, incluant la création d'images et la gestion de conteneurs.
+* **🛡️ Simulation BruteForce (C#)** - [`BTS-CS-TP_BruteForce`](https://github.com/Mathioux-Morin/BTS-CS-TP_BruteForce) : Outil éducatif illustrant les attaques par dictionnaire.
+* **🐳 Labo Docker** - [`BTS-DOCKER-TP_Dockers`](https://github.com/Mathioux-Morin/BTS-DOCKER-TP_Dockers) : Création d'images et orchestration de conteneurs.
 
 ---
 
 ## 🚀 Projets Personnels
 
-Ici se trouvent les projets que je développe par passion et pour explorer de nouvelles technologies.
-
-* **Bot Discord Multifonctions**
-    * **Dossier :** [`Discord-Bot`](https://github.com/Mathioux-Morin/Discord-Bot)
-    * **Description :** Un bot pour la plateforme Discord développé en JavaScript. Il est conçu pour être modulaire et peut servir à la modération, à l'automatisation de tâches ou à l'ajout de commandes ludiques sur un serveur.
-    * **Technologies :** `JavaScript`, `Node.js`, `discord.js`.
+* **🤖 Bot Discord Multifonctions**
+    * **Repo :** [`Discord-Bot`](https://github.com/Mathioux-Morin/Discord-Bot)
+    * **Tech :** `Node.js`, `discord.js`
+    * **Description :** Bot modulaire pour la modération, l'automatisation et l'animation de serveurs communautaires.
 
 ---
-*Ce portfolio est en constante évolution au fil de mes apprentissages.*
+
+### 📈 Statistiques GitHub
+
+![Stats GitHub de Mathioux-Morin](https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&count_private=true)
+
+---
+*Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !*
