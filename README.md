@@ -1,6 +1,7 @@
 # 👨‍💻 Portfolio de Développeur - [MORIN Mathieu]
 
 <img width="512" height="169" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
+
 **Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)**
 Passionné par le développement web, le backend et l'automatisation. Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
 
@@ -66,15 +67,27 @@ Passionné par le développement web, le backend et l'automatisation. Ce référ
 
 ---
 
-### 📈 Statistiques GitHub
+### 🏆 Mes Statistiques & Trophées
 
 <div align="center">
 
-<a href="https://github.com/Mathioux-Morin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&include_all_commits=true" alt="Mathieu's Github Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical" alt="Top Langs">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathioux-Morin&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Mathieu's Trophies" />
 </a>
 
+<br/>
+
+<a href="https://github.com/Mathioux-Morin">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathioux-Morin&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/Mathioux-Morin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical" alt="Top Langs" />
+</a>
+*(Si l'image des langages ne s'affiche pas non plus, supprimez simplement cette dernière ligne, c'est le même serveur qui pose problème)*
+
 </div>
+
 ---
+
 *Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !*
