@@ -1,6 +1,6 @@
 # 👨‍💻 Portfolio de Développeur - [MORIN Mathieu]
 
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
+<img width="512" height="169" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
 **Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)**
 Passionné par le développement web, le backend et l'automatisation. Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
 
@@ -68,7 +68,13 @@ Passionné par le développement web, le backend et l'automatisation. Ce référ
 
 ### 📈 Statistiques GitHub
 
-![Stats GitHub de Mathioux-Morin](https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&count_private=true)
+<div align="center">
 
+<a href="https://github.com/Mathioux-Morin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&include_all_commits=true" alt="Mathieu's Github Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical" alt="Top Langs">
+</a>
+
+</div>
 ---
 *Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !*
