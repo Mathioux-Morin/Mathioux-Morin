@@ -1,4 +1,8 @@
-# 👨‍💻 Portfolio de Développeur - MORIN Mathieu
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Portfolio+de+D%C3%A9veloppeur+-+MORIN+Mathieu" alt="Typing SVG" />
+</a>
 
 <img width="100%" height="auto" alt="banner" src="https://github.com/user-attachments/assets/97cc64ee-0c3b-404c-876e-e09a064ba20b" />
 
@@ -7,18 +11,6 @@
 ### Étudiant en BTS SIO (Solutions Logicielles et Applications Métiers)
 **Passionné par le développement web, le backend et l'automatisation.**
 Ce référentiel centralise mes projets de formation et mes réalisations personnelles.
-
-<br>
-
-<a href="https://github.com/Mathioux-Morin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathioux-Morin&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Mathieu's GitHub Stats" />
-</a>
-<br>
-<a href="https://github.com/Mathioux-Morin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical&hide_border=false" alt="Mathieu's Top Languages" />
-</a>
-
-</div>
 
 ---
 
