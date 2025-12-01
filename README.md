@@ -67,27 +67,4 @@ Passionné par le développement web, le backend et l'automatisation. Ce référ
 
 ---
 
-### 🏆 Mes Statistiques & Trophées
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathioux-Morin&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Mathieu's Trophies" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Mathioux-Morin">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathioux-Morin&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/Mathioux-Morin">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathioux-Morin&layout=compact&theme=radical" alt="Top Langs" />
-</a>
-*(Si l'image des langages ne s'affiche pas non plus, supprimez simplement cette dernière ligne, c'est le même serveur qui pose problème)*
-
-</div>
-
----
-
 *Ce portfolio évolue constamment. N'hésitez pas à explorer les dépôts pour voir le code source !*
